@@ -1,0 +1,16 @@
+#home h1 span {
+  background: linear-gradient(#ff0062, #ff0080);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#home {
+  width: 100%;
+  height: 97vh;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+img {
+  width: 20vw;
+}
